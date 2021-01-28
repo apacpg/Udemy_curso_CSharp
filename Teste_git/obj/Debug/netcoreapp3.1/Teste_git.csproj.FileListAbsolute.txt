@@ -1,0 +1,13 @@
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.exe
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.deps.json
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.runtimeconfig.json
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.runtimeconfig.dev.json
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.dll
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\bin\Debug\netcoreapp3.1\Teste_git.pdb
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.csprojAssemblyReference.cache
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.AssemblyInfoInputs.cache
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.AssemblyInfo.cs
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.csproj.CoreCompileInputs.cache
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.dll
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.pdb
+E:\Udemy\C#\C# COMPLETO Programação orientada a objetos + Projetos\Treino_Git\Primeiros_passos\Teste_git\Teste_git\obj\Debug\netcoreapp3.1\Teste_git.genruntimeconfig.cache
